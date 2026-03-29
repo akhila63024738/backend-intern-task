@@ -1,0 +1,4 @@
+[dotenv@17.3.1] injecting env (3) from .env
+🚀 Server running on port 5000
+✅ MongoDB Connected
+{"msg":"Register route working"}
